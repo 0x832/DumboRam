@@ -23,7 +23,8 @@ Esta herramienta está orientada a usuarios que tengan unos conocimientos básic
 - Volatility 3 instalado
 - Un volcado de memoria RAM, por ejemplo en formato `.raw`
 
-#Responsabilidad y Uso Ético
+
+## Responsabilidad y Uso Ético
 
 El autor de este software no asume ninguna responsabilidad por el uso indebido del software o cualquier daño que pueda resultar del uso de este software. El usuario es el único responsable de su uso y debe utilizarlo de manera ética y legal.
 
